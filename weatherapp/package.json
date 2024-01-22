@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "weather-app",
+    "climate",
+    "temperature",
+    "api",
+    "react",
+    "nodejs",
+    "javascript",
+    "web-app"
+  ],
+  "author": "\"Amir Abdur-Rahim <amirabdurrahim@gmail.com> (https://github.com/aabdur1)"
 }
